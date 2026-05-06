@@ -1,20 +1,9 @@
-<<<<<<< HEAD
 {
-  "name": "Nô-lệ-thứ-n",
+  "name": "bot-dem-ngay",
   "version": "1.0.0",
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^14.0.0",
     "node-cron": "^3.0.0"
   }
-=======
-{
-  "name": "Nô-lệ-thứ-n",
-  "version": "1.0.0",
-  "main": "bot.js",
-  "dependencies": {
-    "discord.js": "^14.0.0",
-    "node-cron": "^3.0.0"
-  }
->>>>>>> dcf7bc5c54f0f0447f584d8268a8e0a20d0ecc08
 }
