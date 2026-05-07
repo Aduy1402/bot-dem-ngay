@@ -5,7 +5,7 @@ const client = new Client({
   intents: [GatewayIntentBits.Guilds]
 });
 
-let daysLeft = 324;
+let daysLeft = 323;
 
 const CHANNEL_ID = 'DAN_ID_VAO_DAY';
 
